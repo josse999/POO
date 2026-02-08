@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.sourcelink.json
+C:\Users\josea\Progra\POO\parOImpar\bin\Debug\net10.0\parOImpar.exe
+C:\Users\josea\Progra\POO\parOImpar\bin\Debug\net10.0\parOImpar.deps.json
+C:\Users\josea\Progra\POO\parOImpar\bin\Debug\net10.0\parOImpar.runtimeconfig.json
+C:\Users\josea\Progra\POO\parOImpar\bin\Debug\net10.0\parOImpar.dll
+C:\Users\josea\Progra\POO\parOImpar\bin\Debug\net10.0\parOImpar.pdb
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.dll
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\refint\parOImpar.dll
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.pdb
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\parOImpar.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\parOImpar\obj\Debug\net10.0\ref\parOImpar.dll

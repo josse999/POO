@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\tareaFolios\bin\Debug\net10.0\tareaFolios.exe
+C:\Users\josea\Progra\POO\tareaFolios\bin\Debug\net10.0\tareaFolios.deps.json
+C:\Users\josea\Progra\POO\tareaFolios\bin\Debug\net10.0\tareaFolios.runtimeconfig.json
+C:\Users\josea\Progra\POO\tareaFolios\bin\Debug\net10.0\tareaFolios.dll
+C:\Users\josea\Progra\POO\tareaFolios\bin\Debug\net10.0\tareaFolios.pdb
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.sourcelink.json
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.dll
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\refint\tareaFolios.dll
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.pdb
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\tareaFolios.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\tareaFolios\obj\Debug\net10.0\ref\tareaFolios.dll
