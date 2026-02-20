@@ -22,7 +22,6 @@ class Tarea2
             x[i] = int.Parse(Console.ReadLine());
         }
     }
-
     static void Opp(int[] x,double[,] y)
     {
         for(int i=0;i<y.GetLength(0);i++)
