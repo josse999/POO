@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Bank/Bank.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="Empleado/Empleado.csproj" />
+  <Project Path="Game/Game.csproj" />
   <Project Path="Task/Task.csproj" />
 </Solution>
