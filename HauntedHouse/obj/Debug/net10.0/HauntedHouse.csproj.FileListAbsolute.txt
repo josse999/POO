@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\HauntedHouse\bin\Debug\net10.0\HauntedHouse.exe
+C:\Users\josea\Progra\POO\HauntedHouse\bin\Debug\net10.0\HauntedHouse.deps.json
+C:\Users\josea\Progra\POO\HauntedHouse\bin\Debug\net10.0\HauntedHouse.runtimeconfig.json
+C:\Users\josea\Progra\POO\HauntedHouse\bin\Debug\net10.0\HauntedHouse.dll
+C:\Users\josea\Progra\POO\HauntedHouse\bin\Debug\net10.0\HauntedHouse.pdb
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.sourcelink.json
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.dll
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\refint\HauntedHouse.dll
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.pdb
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\HauntedHouse.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\HauntedHouse\obj\Debug\net10.0\ref\HauntedHouse.dll

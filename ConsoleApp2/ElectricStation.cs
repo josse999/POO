@@ -24,6 +24,9 @@ public class ElectricStation
             if (y > 100)
                 Console.WriteLine("La carga no puede ser mayor a 100");
             else
+            if(y< 0 )
+                Console.WriteLine("Error: La carga no puede ser negativa");
+            else
                 charge = y;
         }
     }
@@ -45,13 +48,10 @@ public class ElectricStation
         Console.WriteLine("Antes de realizar cambios ingrese la contraseña: ");
         code = Console.ReadLine();
         if (code == password)
-        {
-            Console.WriteLine("La contraseña ingresada es correcta");
             return true;
-        }
         else
         {
-            Console.WriteLine("La contraseña ingresada es incorrecta");
+            Console.WriteLine("Error: contraseña incorrecta");
             return false;
         }
     }

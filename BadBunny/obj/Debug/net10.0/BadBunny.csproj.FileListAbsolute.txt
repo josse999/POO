@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\BadBunny\bin\Debug\net10.0\BadBunny.exe
+C:\Users\josea\Progra\POO\BadBunny\bin\Debug\net10.0\BadBunny.deps.json
+C:\Users\josea\Progra\POO\BadBunny\bin\Debug\net10.0\BadBunny.runtimeconfig.json
+C:\Users\josea\Progra\POO\BadBunny\bin\Debug\net10.0\BadBunny.dll
+C:\Users\josea\Progra\POO\BadBunny\bin\Debug\net10.0\BadBunny.pdb
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.sourcelink.json
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.dll
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\refint\BadBunny.dll
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.pdb
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\BadBunny.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\BadBunny\obj\Debug\net10.0\ref\BadBunny.dll

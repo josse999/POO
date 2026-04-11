@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Dronin\bin\Debug\net10.0\Dronin.exe
+C:\Users\josea\Progra\POO\Dronin\bin\Debug\net10.0\Dronin.deps.json
+C:\Users\josea\Progra\POO\Dronin\bin\Debug\net10.0\Dronin.runtimeconfig.json
+C:\Users\josea\Progra\POO\Dronin\bin\Debug\net10.0\Dronin.dll
+C:\Users\josea\Progra\POO\Dronin\bin\Debug\net10.0\Dronin.pdb
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.sourcelink.json
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.dll
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\refint\Dronin.dll
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.pdb
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\Dronin.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Dronin\obj\Debug\net10.0\ref\Dronin.dll

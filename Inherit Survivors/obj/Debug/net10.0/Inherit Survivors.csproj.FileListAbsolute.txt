@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Inherit Survivors\bin\Debug\net10.0\Inherit Survivors.exe
+C:\Users\josea\Progra\POO\Inherit Survivors\bin\Debug\net10.0\Inherit Survivors.deps.json
+C:\Users\josea\Progra\POO\Inherit Survivors\bin\Debug\net10.0\Inherit Survivors.runtimeconfig.json
+C:\Users\josea\Progra\POO\Inherit Survivors\bin\Debug\net10.0\Inherit Survivors.dll
+C:\Users\josea\Progra\POO\Inherit Survivors\bin\Debug\net10.0\Inherit Survivors.pdb
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.sourcelink.json
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.dll
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\refint\Inherit Survivors.dll
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.pdb
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\Inherit Survivors.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Inherit Survivors\obj\Debug\net10.0\ref\Inherit Survivors.dll

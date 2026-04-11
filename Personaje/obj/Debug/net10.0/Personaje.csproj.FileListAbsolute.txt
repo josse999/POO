@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Personaje\bin\Debug\net10.0\Personaje.exe
+C:\Users\josea\Progra\POO\Personaje\bin\Debug\net10.0\Personaje.deps.json
+C:\Users\josea\Progra\POO\Personaje\bin\Debug\net10.0\Personaje.runtimeconfig.json
+C:\Users\josea\Progra\POO\Personaje\bin\Debug\net10.0\Personaje.dll
+C:\Users\josea\Progra\POO\Personaje\bin\Debug\net10.0\Personaje.pdb
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.sourcelink.json
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.dll
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\refint\Personaje.dll
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.pdb
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\Personaje.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Personaje\obj\Debug\net10.0\ref\Personaje.dll

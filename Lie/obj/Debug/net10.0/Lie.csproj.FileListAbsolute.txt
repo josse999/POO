@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Lie\bin\Debug\net10.0\Lie.exe
+C:\Users\josea\Progra\POO\Lie\bin\Debug\net10.0\Lie.deps.json
+C:\Users\josea\Progra\POO\Lie\bin\Debug\net10.0\Lie.runtimeconfig.json
+C:\Users\josea\Progra\POO\Lie\bin\Debug\net10.0\Lie.dll
+C:\Users\josea\Progra\POO\Lie\bin\Debug\net10.0\Lie.pdb
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.sourcelink.json
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.dll
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\refint\Lie.dll
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.pdb
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\Lie.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Lie\obj\Debug\net10.0\ref\Lie.dll

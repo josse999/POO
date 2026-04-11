@@ -7,6 +7,7 @@ public class Program
         ElectricStation mexico = new ElectricStation();
         mexico.SetCharge();
         mexico.SetStation();
+        mexico.PrintName();
         mexico.SetStation();
         mexico.PrintName();
         mexico.SetCharge();

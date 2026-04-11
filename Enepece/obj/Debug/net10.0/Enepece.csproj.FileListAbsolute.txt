@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Enepece\bin\Debug\net10.0\Enepece.exe
+C:\Users\josea\Progra\POO\Enepece\bin\Debug\net10.0\Enepece.deps.json
+C:\Users\josea\Progra\POO\Enepece\bin\Debug\net10.0\Enepece.runtimeconfig.json
+C:\Users\josea\Progra\POO\Enepece\bin\Debug\net10.0\Enepece.dll
+C:\Users\josea\Progra\POO\Enepece\bin\Debug\net10.0\Enepece.pdb
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.sourcelink.json
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.dll
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\refint\Enepece.dll
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.pdb
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\Enepece.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Enepece\obj\Debug\net10.0\ref\Enepece.dll

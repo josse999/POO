@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Inherit Festival\bin\Debug\net10.0\Inherit Festival.exe
+C:\Users\josea\Progra\POO\Inherit Festival\bin\Debug\net10.0\Inherit Festival.deps.json
+C:\Users\josea\Progra\POO\Inherit Festival\bin\Debug\net10.0\Inherit Festival.runtimeconfig.json
+C:\Users\josea\Progra\POO\Inherit Festival\bin\Debug\net10.0\Inherit Festival.dll
+C:\Users\josea\Progra\POO\Inherit Festival\bin\Debug\net10.0\Inherit Festival.pdb
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.sourcelink.json
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.dll
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\refint\Inherit Festival.dll
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.pdb
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\Inherit Festival.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Inherit Festival\obj\Debug\net10.0\ref\Inherit Festival.dll

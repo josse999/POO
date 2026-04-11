@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Pizzonga\bin\Debug\net10.0\Pizzonga.exe
+C:\Users\josea\Progra\POO\Pizzonga\bin\Debug\net10.0\Pizzonga.deps.json
+C:\Users\josea\Progra\POO\Pizzonga\bin\Debug\net10.0\Pizzonga.runtimeconfig.json
+C:\Users\josea\Progra\POO\Pizzonga\bin\Debug\net10.0\Pizzonga.dll
+C:\Users\josea\Progra\POO\Pizzonga\bin\Debug\net10.0\Pizzonga.pdb
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.sourcelink.json
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.dll
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\refint\Pizzonga.dll
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.pdb
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\Pizzonga.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Pizzonga\obj\Debug\net10.0\ref\Pizzonga.dll

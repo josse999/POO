@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Estudiante\bin\Debug\net10.0\Estudiante.exe
+C:\Users\josea\Progra\POO\Estudiante\bin\Debug\net10.0\Estudiante.deps.json
+C:\Users\josea\Progra\POO\Estudiante\bin\Debug\net10.0\Estudiante.runtimeconfig.json
+C:\Users\josea\Progra\POO\Estudiante\bin\Debug\net10.0\Estudiante.dll
+C:\Users\josea\Progra\POO\Estudiante\bin\Debug\net10.0\Estudiante.pdb
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.sourcelink.json
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.dll
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\refint\Estudiante.dll
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.pdb
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\Estudiante.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Estudiante\obj\Debug\net10.0\ref\Estudiante.dll

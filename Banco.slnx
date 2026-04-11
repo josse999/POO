@@ -1,8 +1,19 @@
 <Solution>
+  <Project Path="BadBunny/BadBunny.csproj" />
   <Project Path="Bank/Bank.csproj" />
+  <Project Path="Carro/Carro.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="Dronin/Dronin.csproj" />
   <Project Path="Empleado/Empleado.csproj" />
+  <Project Path="Enepece/Enepece.csproj" />
+  <Project Path="Estudiante/Estudiante.csproj" />
   <Project Path="Game/Game.csproj" />
+  <Project Path="HauntedHouse/HauntedHouse.csproj" />
+  <Project Path="Inherit Festival/Inherit Festival.csproj" />
+  <Project Path="Inherit Survivors/Inherit Survivors.csproj" />
+  <Project Path="Lie/Lie.csproj" />
+  <Project Path="Personaje/Personaje.csproj" />
+  <Project Path="Pizzonga/Pizzonga.csproj" />
   <Project Path="Task/Task.csproj" />
 </Solution>
