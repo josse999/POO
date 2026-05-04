@@ -4,6 +4,7 @@ class Program
 {
     static void Main(String[] args)
     {
+        Console.WriteLine("");
         Start();
     }
 
@@ -11,6 +12,7 @@ class Program
     {
         int numOne;
         string name;
+        Console.WriteLine("54F3CR4CK3R M33T5 54F3CR4CK3R");
         Console.WriteLine("Nombre de usuario: ");
         name = Console.ReadLine();
         Console.WriteLine(

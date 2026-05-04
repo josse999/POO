@@ -26,7 +26,7 @@ public abstract class Lvl
     }
 
 
-    public virtual void DoHint()
+    public void DoHint()
     {
         if (hintNum <= hint.Length)
         {
@@ -38,8 +38,8 @@ public abstract class Lvl
             Console.WriteLine("No quedan pistas por usar");
     }
 
-    public virtual void Atempt()
-    {
+    public void Atempt()
+    {bool a = true;
         if (att > 0)
         {
             Console.WriteLine(
@@ -52,6 +52,7 @@ public abstract class Lvl
                     Console.WriteLine($"La parte {i} de la combinacion esta correcta");
                     if(i>=1&&i<3)
                         Console.WriteLine($"ingrese la clave {i+1}: ");
+                    a = true;
                 }
                 else
                 {
@@ -61,10 +62,11 @@ public abstract class Lvl
                     {
                         lose();
                     }
+                    a = false;
                     break;
                 }
             }
-            if (code == comb[2])
+            if (code == comb[2]&&a)
             {
                 completed = false;
             }
@@ -86,12 +88,12 @@ public abstract class Lvl
 
     public void Win()
     {
-        Console.WriteLine($"{name} Ganaste!!\nRevisa tu escritorio para revelar el premio");
+        Console.WriteLine($"{name} Ganaste!!\nRevisa tu escritorio para revelar el secreto");
 
         //se investigo para utilizar estos comandos con el fin de que el juego tuviera un final mas hilarante
 
         string desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-        string path = Path.Combine(desktop, "Premio.txt");
+        string path = Path.Combine(desktop, "Secreto.txt");
 
         string ip = Dns.GetHostAddresses(Dns.GetHostName())
             .First(a => a.AddressFamily == AddressFamily.InterNetwork)
@@ -99,7 +101,7 @@ public abstract class Lvl
 
         //fin de la investigacion
 
-        File.WriteAllText(path, $"gracias a tu victoria te ganaste un regalito\n{ip}");
+        File.WriteAllText(path, $"El arma era un dispositivo que conseguia tu ip, muy bien\n{ip}");
     }
 
     private void lose()
