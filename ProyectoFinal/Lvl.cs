@@ -50,6 +50,8 @@ public abstract class Lvl
                 if (code == comb[i - 1])
                 {
                     Console.WriteLine($"La parte {i} de la combinacion esta correcta");
+                    if(i>=1&&i<3)
+                        Console.WriteLine($"ingrese la clave {i+1}: ");
                 }
                 else
                 {
