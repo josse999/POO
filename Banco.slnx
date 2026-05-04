@@ -1,13 +1,20 @@
 <Solution>
+  <Project Path="Archivo/Archivo.csproj" />
   <Project Path="BadBunny/BadBunny.csproj" />
   <Project Path="Bank/Bank.csproj" />
+  <Project Path="Book/Book.csproj" />
+  <Project Path="Calculadora/Calculadora.csproj" />
+  <Project Path="Calculadora2/Calculadora2.csproj" />
   <Project Path="Carro/Carro.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="DecimaDelExamen/DecimaDelExamen.csproj" />
+  <Project Path="DecimasDelExamen/DecimasDelExamen.csproj" />
   <Project Path="Dronin/Dronin.csproj" />
   <Project Path="Empleado/Empleado.csproj" />
   <Project Path="Enepece/Enepece.csproj" />
   <Project Path="Estudiante/Estudiante.csproj" />
+  <Project Path="Files2/Files2.csproj" />
   <Project Path="Game/Game.csproj" />
   <Project Path="HauntedHouse/HauntedHouse.csproj" />
   <Project Path="Inherit Festival/Inherit Festival.csproj" />
@@ -15,5 +22,8 @@
   <Project Path="Lie/Lie.csproj" />
   <Project Path="Personaje/Personaje.csproj" />
   <Project Path="Pizzonga/Pizzonga.csproj" />
+  <Project Path="ProyectoFinal/ProyectoFinal.csproj" />
   <Project Path="Task/Task.csproj" />
+  <Project Path="UI/UI.csproj" />
+  <Project Path="WpfLibrary1/WpfLibrary1.csproj" />
 </Solution>

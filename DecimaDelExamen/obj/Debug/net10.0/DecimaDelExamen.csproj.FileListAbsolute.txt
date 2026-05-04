@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\DecimaDelExamen\bin\Debug\net10.0\DecimaDelExamen.exe
+C:\Users\josea\Progra\POO\DecimaDelExamen\bin\Debug\net10.0\DecimaDelExamen.deps.json
+C:\Users\josea\Progra\POO\DecimaDelExamen\bin\Debug\net10.0\DecimaDelExamen.runtimeconfig.json
+C:\Users\josea\Progra\POO\DecimaDelExamen\bin\Debug\net10.0\DecimaDelExamen.dll
+C:\Users\josea\Progra\POO\DecimaDelExamen\bin\Debug\net10.0\DecimaDelExamen.pdb
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.sourcelink.json
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.dll
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\refint\DecimaDelExamen.dll
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.pdb
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\DecimaDelExamen.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\DecimaDelExamen\obj\Debug\net10.0\ref\DecimaDelExamen.dll

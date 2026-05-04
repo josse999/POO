@@ -1,0 +1,15 @@
+C:\Users\josea\Progra\POO\Archivo\bin\Debug\net10.0\Archivo.exe
+C:\Users\josea\Progra\POO\Archivo\bin\Debug\net10.0\Archivo.deps.json
+C:\Users\josea\Progra\POO\Archivo\bin\Debug\net10.0\Archivo.runtimeconfig.json
+C:\Users\josea\Progra\POO\Archivo\bin\Debug\net10.0\Archivo.dll
+C:\Users\josea\Progra\POO\Archivo\bin\Debug\net10.0\Archivo.pdb
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.AssemblyInfoInputs.cache
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.AssemblyInfo.cs
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.sourcelink.json
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.dll
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\refint\Archivo.dll
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.pdb
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\Archivo.genruntimeconfig.cache
+C:\Users\josea\Progra\POO\Archivo\obj\Debug\net10.0\ref\Archivo.dll
