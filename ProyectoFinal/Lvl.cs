@@ -26,7 +26,7 @@ public abstract class Lvl
     }
 
 
-    public void DoHint()
+    public virtual void DoHint()
     {
         if (hintNum <= hint.Length)
         {
@@ -42,8 +42,7 @@ public abstract class Lvl
     {bool a = true;
         if (att > 0)
         {
-            Console.WriteLine(
-                $"{name} te quedan {att} intentos\n\nIngrese la combinacion que cree que es la verdadera: ");
+            Console.WriteLine($"{name} te quedan {att} intentos\n\nIngrese la combinacion que cree que es la verdadera: ");
             for (int i = 1; i <= comb.Length; i++)
             {
                 code = int.Parse(Console.ReadLine());
